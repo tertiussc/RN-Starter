@@ -3,8 +3,8 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 15784,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "packagerPid": 3404,
+  "expoServerNgrokUrl": "https://tz-z9i.anonymous.rn-starter.exp.direct",
+  "packagerNgrokUrl": "https://packager.tz-z9i.anonymous.rn-starter.exp.direct",
+  "ngrokPid": 10712
 }
