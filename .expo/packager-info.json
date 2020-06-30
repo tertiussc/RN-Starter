@@ -1,10 +1,10 @@
 {
   "webpackServerPort": null,
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 3404,
-  "expoServerNgrokUrl": "https://tz-z9i.anonymous.rn-starter.exp.direct",
-  "packagerNgrokUrl": "https://packager.tz-z9i.anonymous.rn-starter.exp.direct",
-  "ngrokPid": 10712
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null
 }
