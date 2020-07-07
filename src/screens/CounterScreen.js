@@ -14,13 +14,11 @@ const reducer = (state, action) => {
         default:
             return state
     }
-
 }
 
 const CounterScreen = () => {
 
     const [state, dispatch] = useReducer(reducer, { count: 0 })
-
 
     return (
         <View>
