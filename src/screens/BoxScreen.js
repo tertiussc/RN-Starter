@@ -18,7 +18,6 @@ const styles = StyleSheet.create({
         height: 200,
         flexDirection: 'row',
         justifyContent: 'space-between'
-
     },
     textOneStyle: {
         height: 50,
@@ -35,8 +34,8 @@ const styles = StyleSheet.create({
         backgroundColor: 'green',
         flex: 1,
         marginHorizontal: 5,
-        // top: 50,
-        alignSelf: 'flex-end',
+        top: 50,
+        // alignSelf: 'flex-end',
         // marginTop: 50,
         color: 'white',
         fontSize: 20

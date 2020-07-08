@@ -10,37 +10,37 @@ const HomeScreen = ({ navigation }) => {
         title="Got to Components Demo"
         onPress={() => navigation.navigate('Components')}
       />
-      <Text></Text>
+      <View style={styles.space} />
       <Button
         title="Go to list Demo"
         onPress={() => navigation.navigate('List')}
       />
-      <Text></Text>
+      <View style={styles.space} />
       <Button
         title="Go to Image demo"
         onPress={() => navigation.navigate('Image')}
       />
-      <Text></Text>
+      <View style={styles.space} />
       <Button
         title="Go to Counter demo"
         onPress={() => navigation.navigate('Counter')}
       />
-      <Text></Text>
+      <View style={styles.space} />
       <Button
         title="Go to Color demo"
         onPress={() => navigation.navigate('Color')}
       />
-      <Text></Text>
+      <View style={styles.space} />
       <Button
         title="Go to Square demo"
         onPress={() => navigation.navigate('Square')}
       />
-      <Text></Text>
+      <View style={styles.space} />
       <Button
         title="Go to Text demo"
         onPress={() => navigation.navigate('Text')}
       />
-      <Text></Text>
+      <View style={styles.space} />
       <Button
         title="Go to Box demo"
         onPress={() => navigation.navigate('Box')}
@@ -53,6 +53,9 @@ const styles = StyleSheet.create({
   text: {
     fontSize: 30,
   },
+  space: {
+    marginBottom: 3,
+  }
 });
 
 export default HomeScreen;

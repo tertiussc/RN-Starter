@@ -8,7 +8,6 @@ const ComponentsScreen = () => {
         <View>
             <Text style={styles.textStyle}>This is the components screen</Text>
             <Text style={{ fontSize: 20 }}>{greeting} {name}</Text>
-
         </View>
     )
 }
